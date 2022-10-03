@@ -43,3 +43,12 @@ cd Repos/big-fish-trial-2022-10
 
 jupyter notebook
 ```
+
+## Created a jupyter notebook
+
+Created a jupyter notebook based on `https://github.com/fish-quant/big-fish-examples/blob/master/notebooks/4 - Segment nuclei and cells.ipynb`
+
+The notebook is:
+`notebooks/01-SegmentNucleiAndCells.ipynb`
+
+Today, we successfully loaded and displayed images and used thresholding to find the nuclei in the DAPI channel.
